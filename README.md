@@ -2,9 +2,10 @@
 
 ### Estudante de Sistemas de Informação | Uninassau Jn-CE
 
-<p >
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js&s=40" />
 </p>
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/SEU_INSTAGRAM)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
