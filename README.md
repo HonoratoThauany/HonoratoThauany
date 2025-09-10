@@ -1,12 +1,10 @@
-## Olá, eu sou Thauany Honorato 
+## Olá, eu sou Thauany Honorato 🧑🏻‍💻
 
 ### Estudante de Sistemas de Informação | Uninassau Jn-CE
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" width="100" height="100" />
+<p >
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" /> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=css" width="40" height="40" /> &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=js" width="40" height="40" />
 </p>
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/SEU_INSTAGRAM)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
+
