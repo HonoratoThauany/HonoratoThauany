@@ -2,7 +2,7 @@
 
 ### Estudante de Sistemas de Informação | Uninassau Jn-CE
 
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
