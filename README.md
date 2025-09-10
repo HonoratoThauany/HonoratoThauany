@@ -3,7 +3,7 @@
 ### Estudante de Sistemas de Informação | Uninassau Jn-CE
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" width="80" height="80" />
 </p>
 
 
