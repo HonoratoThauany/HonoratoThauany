@@ -1,6 +1,6 @@
 ## Olá, eu sou Thauany Honorato 🧑🏻‍💻
 
-#### Estudante de Sistemas de Informação | Uninassau Jn-CE
+#### Estudante de Sistemas de Informação | Dev Front-end em desenvolvimento
 
 <br>
 <p >
