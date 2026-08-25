@@ -21,7 +21,7 @@
 
 ### 🚀 Projetos em desestaque
 
-**[Foco na Web](https://focus-web-delta.vercel.app)** · [GitHub](https://github.com/HonoratoThauany/focus-web)
+**[FocusWeb](https://focus-web-delta.vercel.app)** · [GitHub](https://github.com/HonoratoThauany/focus-web)
 > App de produtividade para estudantes com TDAH. Temporizador Pomodoro, tarefas priorizadas e metas diárias — criado a partir da minha própria experiência com foco e disciplina.
 
 **[StockPro](https://stock-control-xi.vercel.app)** · [GitHub](https://github.com/HonoratoThauany/stock-control)
